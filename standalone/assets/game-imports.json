@@ -1,0 +1,21 @@
+[
+  "nvnBootstrapLoader",
+  "memcpy",
+  "snprintf",
+  "malloc",
+  "aligned_alloc",
+  "free",
+  "vsnprintf",
+  "strcmp",
+  "memset",
+  "strlen",
+  "memchr",
+  "memmove",
+  "qsort",
+  "sscanf",
+  "memcmp",
+  "strstr",
+  "cosf",
+  "sinf",
+  "acosf"
+]

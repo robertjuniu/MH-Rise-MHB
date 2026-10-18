@@ -1,0 +1,470 @@
+[
+  {
+    "id": 1,
+    "name": "Rathian",
+    "kind": "Flying Wyvern",
+    "icon": "MHRise-Rathian_Icon.png"
+  },
+  {
+    "id": 1793,
+    "name": "Apex Rathian",
+    "kind": "Flying Wyvern",
+    "icon": "MHRise-Apex_Rathian_Icon.png"
+  },
+  {
+    "id": 2,
+    "name": "Rathalos",
+    "kind": "Flying Wyvern",
+    "icon": "MHRise-Rathalos_Icon.png"
+  },
+  {
+    "id": 1794,
+    "name": "Apex Rathalos",
+    "kind": "Flying Wyvern",
+    "icon": "MHRise-Apex_Rathalos_Icon.png"
+  },
+  {
+    "id": 3,
+    "name": "Khezu",
+    "kind": "Flying Wyvern",
+    "icon": "MHRise-Khezu_Icon.png"
+  },
+  {
+    "id": 4,
+    "name": "Basarios",
+    "kind": "Flying Wyvern",
+    "icon": "MHRise-Basarios_Icon.png"
+  },
+  {
+    "id": 7,
+    "name": "Diablos",
+    "kind": "Flying Wyvern",
+    "icon": "MHRise-Diablos_Icon.png"
+  },
+  {
+    "id": 1799,
+    "name": "Apex Diablos",
+    "kind": "Flying Wyvern",
+    "icon": "MHRise-Apex_Diablos_Icon.png"
+  },
+  {
+    "id": 23,
+    "name": "Rajang",
+    "kind": "Fanged Beast",
+    "icon": "MHRise-Rajang_Icon.png"
+  },
+  {
+    "id": 24,
+    "name": "Kushala Daora",
+    "kind": "Elder Dragon",
+    "icon": "MHRise-Kushala_Daora_Icon.png"
+  },
+  {
+    "id": 25,
+    "name": "Chameleos",
+    "kind": "Elder Dragon",
+    "icon": "MHRise-Chameleos_Icon.png"
+  },
+  {
+    "id": 27,
+    "name": "Teostra",
+    "kind": "Elder Dragon",
+    "icon": "MHRise-Teostra_icon.png"
+  },
+  {
+    "id": 32,
+    "name": "Tigrex",
+    "kind": "Flying Wyvern",
+    "icon": "MHRise-Tigrex_Icon.png"
+  },
+  {
+    "id": 37,
+    "name": "Nargacuga",
+    "kind": "Flying Wyvern",
+    "icon": "MHRise-Nargacuga_Icon.png"
+  },
+  {
+    "id": 42,
+    "name": "Barioth",
+    "kind": "Flying Wyvern",
+    "icon": "MHRise-Barioth_Icon.png"
+  },
+  {
+    "id": 44,
+    "name": "Barroth",
+    "kind": "Brute Wyvern",
+    "icon": "MHRise-Barroth_Icon.png"
+  },
+  {
+    "id": 47,
+    "name": "Royal Ludroth",
+    "kind": "Leviathan",
+    "icon": "MHRise-Royal_Ludroth_Icon.png"
+  },
+  {
+    "id": 54,
+    "name": "Great Baggi",
+    "kind": "Bird Wyvern",
+    "icon": "MHRise-Great_Baggi_Icon.png"
+  },
+  {
+    "id": 57,
+    "name": "Zinogre",
+    "kind": "Fanged Wyvern",
+    "icon": "MHRise-Zinogre_Icon.png"
+  },
+  {
+    "id": 1849,
+    "name": "Apex Zinogre",
+    "kind": "Fanged Wyvern",
+    "icon": "MHRise-Apex_Zinogre_Icon.png"
+  },
+  {
+    "id": 59,
+    "name": "Great Wroggi",
+    "kind": "Bird Wyvern",
+    "icon": "MHRise-Great_Wroggi_Icon.png"
+  },
+  {
+    "id": 60,
+    "name": "Arzuros",
+    "kind": "Fanged Beast",
+    "icon": "MHRise-Arzuros_Icon.png"
+  },
+  {
+    "id": 1852,
+    "name": "Apex Arzuros",
+    "kind": "Fanged Beast",
+    "icon": "MHRise-Apex_Arzuros_Icon.png"
+  },
+  {
+    "id": 61,
+    "name": "Lagombi",
+    "kind": "Fanged Beast",
+    "icon": "MHRise-Lagombi_Icon.png"
+  },
+  {
+    "id": 62,
+    "name": "Volvidon",
+    "kind": "Fanged Beast",
+    "icon": "MHRise-Volvidon_Icon.png"
+  },
+  {
+    "id": 82,
+    "name": "Mizutsune",
+    "kind": "Leviathan",
+    "icon": "MHRise-Mizutsune_Icon.png"
+  },
+  {
+    "id": 1874,
+    "name": "Apex Mizutsune",
+    "kind": "Leviathan",
+    "icon": "MHRise-Apex_Mizutsune_Icon.png"
+  },
+  {
+    "id": 1366,
+    "name": "Crimson Glow Valstrax",
+    "kind": "Elder Dragon",
+    "icon": "MHRise-Crimson_Glow_Valstrax_Icon.png"
+  },
+  {
+    "id": 89,
+    "name": "Magnamalo",
+    "kind": "Fanged Wyvern",
+    "icon": "MHRise-Magnamalo_Icon.png"
+  },
+  {
+    "id": 90,
+    "name": "Bishaten",
+    "kind": "Fanged Beast",
+    "icon": "MHRise-Bishaten_Icon.png"
+  },
+  {
+    "id": 91,
+    "name": "Aknosom",
+    "kind": "Bird Wyvern",
+    "icon": "MHRise-Aknosom_Icon.png"
+  },
+  {
+    "id": 92,
+    "name": "Tetranadon",
+    "kind": "Amphibian",
+    "icon": "MHRise-Tetranadon_Icon.png"
+  },
+  {
+    "id": 93,
+    "name": "Somnacanth",
+    "kind": "Leviathan",
+    "icon": "MHRise-Somnacanth_Icon.png"
+  },
+  {
+    "id": 94,
+    "name": "Rakna-Kadaki",
+    "kind": "Temnoceran",
+    "icon": "MHRise-Rakna-Kadaki_Icon.png"
+  },
+  {
+    "id": 95,
+    "name": "Almudron",
+    "kind": "Leviathan",
+    "icon": "MHRise-Almudron_Icon.png"
+  },
+  {
+    "id": 96,
+    "name": "Wind Serpent Ibushi",
+    "kind": "Elder Dragon",
+    "icon": "MHRise-Wind_Serpent_Ibushi_Icon.png"
+  },
+  {
+    "id": 97,
+    "name": "Goss Harag",
+    "kind": "Fanged Beast",
+    "icon": "MHRise-Goss_Harag_Icon.png"
+  },
+  {
+    "id": 98,
+    "name": "Great Izuchi",
+    "kind": "Bird Wyvern",
+    "icon": "MHRise-Great_Izuchi_Icon.png"
+  },
+  {
+    "id": 99,
+    "name": "Thunder Serpent Narwa",
+    "kind": "Elder Dragon",
+    "icon": "MHRise-Thunder_Serpent_Narwa_Icon.png"
+  },
+  {
+    "id": 1379,
+    "name": "Narwa the Allmother",
+    "kind": "Elder Dragon",
+    "icon": "MHRise-Narwa_The_Allmother_Icon.png"
+  },
+  {
+    "id": 100,
+    "name": "Anjanath",
+    "kind": "Brute Wyvern",
+    "icon": "MHRise-Anjanath_Icon.png"
+  },
+  {
+    "id": 102,
+    "name": "Pukei-Pukei",
+    "kind": "Bird Wyvern",
+    "icon": "MHRise-Pukei-Pukei_Icon.png"
+  },
+  {
+    "id": 107,
+    "name": "Kulu-Ya-Ku",
+    "kind": "Bird Wyvern",
+    "icon": "MHRise-Kulu-Ya-Ku_Icon.png"
+  },
+  {
+    "id": 108,
+    "name": "Jyuratodus",
+    "kind": "Piscine Wyvern",
+    "icon": "MHRise-Jyuratodus_Icon.png"
+  },
+  {
+    "id": 109,
+    "name": "Tobi-Kadachi",
+    "kind": "Fanged Wyvern",
+    "icon": "MHRise-Tobi-Kadachi_Icon.png"
+  },
+  {
+    "id": 118,
+    "name": "Bazelgeuse",
+    "kind": "Flying Wyvern",
+    "icon": "MHRise-Bazelgeuse_Icon.png"
+  },
+  {
+    "id": 513,
+    "name": "Gold Rathian",
+    "kind": "Flying Wyvern",
+    "icon": "MHRS-Gold_Rathian_Icon.png"
+  },
+  {
+    "id": 514,
+    "name": "Silver Rathalos",
+    "kind": "Flying Wyvern",
+    "icon": "MHRS-Silver_Rathalos_Icon.png"
+  },
+  {
+    "id": 19,
+    "name": "Daimyo Hermitaur",
+    "kind": "Carapaceon",
+    "icon": "MHRS-Daimyo_Hermitaur_Icon.png"
+  },
+  {
+    "id": 20,
+    "name": "Shogun Ceanataur",
+    "kind": "Carapaceon",
+    "icon": "MHRS-Shogun_Ceanataur_Icon.png"
+  },
+  {
+    "id": 1303,
+    "name": "Furious Rajang",
+    "kind": "Fanged Beast",
+    "icon": "MHRS-Furious_Rajang_Icon.png"
+  },
+  {
+    "id": 549,
+    "name": "Lucent Nargacuga",
+    "kind": "Flying Wyvern",
+    "icon": "MHRS-Lucent_Nargacuga_Icon.png"
+  },
+  {
+    "id": 71,
+    "name": "Gore Magala",
+    "kind": "Demi Elder",
+    "icon": "MHRS-Gore_Magala_Icon.png"
+  },
+  {
+    "id": 72,
+    "name": "Shagaru Magala",
+    "kind": "Elder Dragon",
+    "icon": "MHRS-Shagaru_Magala_Icon.png"
+  },
+  {
+    "id": 77,
+    "name": "Seregios",
+    "kind": "Flying Wyvern",
+    "icon": "MHRS-Seregios_Icon.png"
+  },
+  {
+    "id": 81,
+    "name": "Astalos",
+    "kind": "Flying Wyvern",
+    "icon": "MHRS-Astalos_Icon.png"
+  },
+  {
+    "id": 594,
+    "name": "Violet Mizutsune",
+    "kind": "Leviathan",
+    "icon": "MHRS-Violet_Mizutsune_Icon.png"
+  },
+  {
+    "id": 1369,
+    "name": "Scorned Magnamalo",
+    "kind": "Fanged Wyvern",
+    "icon": "MHRS-Scorned_Magnamalo_Icon.png"
+  },
+  {
+    "id": 346,
+    "name": "Blood Orange Bishaten",
+    "kind": "Fanged Beast",
+    "icon": "MHRS-Blood_Orange_Bishaten_Icon.png"
+  },
+  {
+    "id": 349,
+    "name": "Aurora Somnacanth",
+    "kind": "Leviathan",
+    "icon": "MHRS-Aurora_Somnacanth_Icon.png"
+  },
+  {
+    "id": 350,
+    "name": "Pyre Rakna-Kadaki",
+    "kind": "Temnoceran",
+    "icon": "MHRS-Pyre_Rakna-Kadaki_Icon.png"
+  },
+  {
+    "id": 351,
+    "name": "Magma Almudron",
+    "kind": "Leviathan",
+    "icon": "MHRS-Magma_Almudron_Icon.png"
+  },
+  {
+    "id": 1398,
+    "name": "Seething Bazelgeuse",
+    "kind": "Flying Wyvern",
+    "icon": "MHRS-Seething_Bazelgeuse_Icon.png"
+  },
+  {
+    "id": 132,
+    "name": "Malzeno",
+    "kind": "Elder Dragon",
+    "icon": "MHRS-Malzeno_Icon.png"
+  },
+  {
+    "id": 133,
+    "name": "Lunagaron",
+    "kind": "Fanged Wyvern",
+    "icon": "MHRS-Lunagaron_Icon.png"
+  },
+  {
+    "id": 134,
+    "name": "Garangolm",
+    "kind": "Fanged Beast",
+    "icon": "MHRS-Garangolm_Icon.png"
+  },
+  {
+    "id": 135,
+    "name": "Gaismagorm",
+    "kind": "Elder Dragon",
+    "icon": "MHRS-Gaismagorm_Icon.png"
+  },
+  {
+    "id": 136,
+    "name": "Espinas",
+    "kind": "Flying Wyvern",
+    "icon": "MHRS-Espinas_Icon.png"
+  },
+  {
+    "id": 392,
+    "name": "Flaming Espinas",
+    "kind": "Flying Wyvern",
+    "icon": "MHRS-Flaming_Espinas_Icon.png"
+  },
+  {
+    "id": 2072,
+    "name": "Risen Kushala Daora",
+    "kind": "Elder Dragon",
+    "icon": "MHRS-Risen_Kushala_Daora_Icon.png"
+  },
+  {
+    "id": 2073,
+    "name": "Risen Chameleos",
+    "kind": "Elder Dragon",
+    "icon": "MHRS-Risen_Chameleos_Icon.png"
+  },
+  {
+    "id": 2075,
+    "name": "Risen Teostra",
+    "kind": "Elder Dragon",
+    "icon": "MHRS-Risen_Teostra_Icon.png"
+  },
+  {
+    "id": 2120,
+    "name": "Risen Shagaru Magala",
+    "kind": "Elder Dragon",
+    "icon": "MHRS-Risen_Shagaru_Magala_Icon.png"
+  },
+  {
+    "id": 2134,
+    "name": "Risen Crimson Glow Valstrax",
+    "kind": "Elder Dragon",
+    "icon": "MHRS-Risen_Crimson_Glow_Valstrax_Icon.png"
+  },
+  {
+    "id": 1412,
+    "name": "Primordial Malzeno",
+    "kind": "Elder Dragon",
+    "icon": "MHRS-Primordial_Malzeno_Icon.png"
+  },
+  {
+    "id": 1351,
+    "name": "Chaotic Gore Magala",
+    "kind": "???",
+    "icon": "MHRS-Chaotic_Gore_Magala_Icon.png"
+  },
+  {
+    "id": 124,
+    "name": "Velkhana",
+    "kind": "Elder Dragon",
+    "icon": "MHRS-Velkhana_Icon.png"
+  },
+  {
+    "id": 58,
+    "name": "Amatsu",
+    "kind": "Elder Dragon",
+    "icon": "MHRS-Amatsu_Icon.png"
+  }
+]

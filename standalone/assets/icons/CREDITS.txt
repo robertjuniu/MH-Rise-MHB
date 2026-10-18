@@ -1,0 +1,5 @@
+Monster icons: Monster Hunter Rise/Sunbreak, artwork copyright Capcom.
+Shagaru Magala uses its Monster Hunter 4 Ultimate icon from the same catalogue.
+Asset source: https://github.com/CrimsonNynja/monster-hunter-DB
+ID reference: https://github.com/mhvuze/MonsterHunterRiseModding/wiki/Monster-IDs
+The catalogue repository provides an MIT license; this does not transfer ownership of Capcom artwork.

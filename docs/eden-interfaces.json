@@ -1,0 +1,1163 @@
+[
+  {
+    "ref": "v0.2.1",
+    "path": "src/core/hle/kernel/svc/svc_info.cpp",
+    "sha": "9e651e11711ad0190cbfab62c45fc3b3d2c9e3d5",
+    "checks": {
+      "MesosphereCurrentProcess": true
+    }
+  },
+  {
+    "ref": "v0.2.1",
+    "path": "src/core/hle/kernel/svc/svc_process_memory.cpp",
+    "sha": "3313118dfa89b62765be0b35561caa2110bb0dd9",
+    "checks": {
+      "Result MapProcessMemory(": true,
+      "Result UnmapProcessMemory(": true
+    }
+  },
+  {
+    "ref": "v0.2.1",
+    "path": "src/core/file_sys/patch_manager.cpp",
+    "sha": "80372ec94e70cade973e4ffcc6b542401e2c3a5c",
+    "checks": {
+      "exefs": true,
+      "subsdk9": true
+    }
+  },
+  {
+    "ref": "v0.2.1",
+    "path": "src/core/loader/nso.cpp",
+    "sha": "482c853542b1341252d4914305a81f5195bc7032",
+    "checks": {
+      "AppLoader_NSO::LoadModule": true,
+      "MakeMagic('N', 'S', 'O', '0')": true
+    }
+  },
+  {
+    "ref": "v0.2.1",
+    "path": "src/core/arm/nce/patcher.cpp",
+    "sha": "ea7716664505cc0748f101df4a29a20ca03cfd74",
+    "checks": {
+      "0x24": true
+    }
+  },
+  {
+    "ref": "v0.2.0",
+    "path": "src/core/hle/kernel/svc/svc_info.cpp",
+    "sha": "9e651e11711ad0190cbfab62c45fc3b3d2c9e3d5",
+    "checks": {
+      "MesosphereCurrentProcess": true
+    }
+  },
+  {
+    "ref": "v0.2.0",
+    "path": "src/core/hle/kernel/svc/svc_process_memory.cpp",
+    "sha": "3313118dfa89b62765be0b35561caa2110bb0dd9",
+    "checks": {
+      "Result MapProcessMemory(": true,
+      "Result UnmapProcessMemory(": true
+    }
+  },
+  {
+    "ref": "v0.2.0",
+    "path": "src/core/file_sys/patch_manager.cpp",
+    "sha": "80372ec94e70cade973e4ffcc6b542401e2c3a5c",
+    "checks": {
+      "exefs": true,
+      "subsdk9": true
+    }
+  },
+  {
+    "ref": "v0.2.0",
+    "path": "src/core/loader/nso.cpp",
+    "sha": "482c853542b1341252d4914305a81f5195bc7032",
+    "checks": {
+      "AppLoader_NSO::LoadModule": true,
+      "MakeMagic('N', 'S', 'O', '0')": true
+    }
+  },
+  {
+    "ref": "v0.2.0",
+    "path": "src/core/arm/nce/patcher.cpp",
+    "sha": "ea7716664505cc0748f101df4a29a20ca03cfd74",
+    "checks": {
+      "0x24": true
+    }
+  },
+  {
+    "ref": "v0.2.0-rc2",
+    "path": "src/core/hle/kernel/svc/svc_info.cpp",
+    "sha": "9e651e11711ad0190cbfab62c45fc3b3d2c9e3d5",
+    "checks": {
+      "MesosphereCurrentProcess": true
+    }
+  },
+  {
+    "ref": "v0.2.0-rc2",
+    "path": "src/core/hle/kernel/svc/svc_process_memory.cpp",
+    "sha": "3313118dfa89b62765be0b35561caa2110bb0dd9",
+    "checks": {
+      "Result MapProcessMemory(": true,
+      "Result UnmapProcessMemory(": true
+    }
+  },
+  {
+    "ref": "v0.2.0-rc2",
+    "path": "src/core/file_sys/patch_manager.cpp",
+    "sha": "6af926eac00adddb668bd3f507b5612ecfe0946e",
+    "checks": {
+      "exefs": true,
+      "subsdk9": true
+    }
+  },
+  {
+    "ref": "v0.2.0-rc2",
+    "path": "src/core/loader/nso.cpp",
+    "sha": "482c853542b1341252d4914305a81f5195bc7032",
+    "checks": {
+      "AppLoader_NSO::LoadModule": true,
+      "MakeMagic('N', 'S', 'O', '0')": true
+    }
+  },
+  {
+    "ref": "v0.2.0-rc2",
+    "path": "src/core/arm/nce/patcher.cpp",
+    "sha": "ea7716664505cc0748f101df4a29a20ca03cfd74",
+    "checks": {
+      "0x24": true
+    }
+  },
+  {
+    "ref": "v0.2.0-rc1",
+    "path": "src/core/hle/kernel/svc/svc_info.cpp",
+    "sha": "9e651e11711ad0190cbfab62c45fc3b3d2c9e3d5",
+    "checks": {
+      "MesosphereCurrentProcess": true
+    }
+  },
+  {
+    "ref": "v0.2.0-rc1",
+    "path": "src/core/hle/kernel/svc/svc_process_memory.cpp",
+    "sha": "3313118dfa89b62765be0b35561caa2110bb0dd9",
+    "checks": {
+      "Result MapProcessMemory(": true,
+      "Result UnmapProcessMemory(": true
+    }
+  },
+  {
+    "ref": "v0.2.0-rc1",
+    "path": "src/core/file_sys/patch_manager.cpp",
+    "sha": "86c2076380da29e3bb535414730c6f7279bf704b",
+    "checks": {
+      "exefs": true,
+      "subsdk9": true
+    }
+  },
+  {
+    "ref": "v0.2.0-rc1",
+    "path": "src/core/loader/nso.cpp",
+    "sha": "458df110b6c64f9c39dfbe97e93a93e55f6d2607",
+    "checks": {
+      "AppLoader_NSO::LoadModule": true,
+      "MakeMagic('N', 'S', 'O', '0')": true
+    }
+  },
+  {
+    "ref": "v0.2.0-rc1",
+    "path": "src/core/arm/nce/patcher.cpp",
+    "sha": "bd8e4fd7fb8f05a4fcbf1117a32d093a7ac68d7d",
+    "checks": {
+      "0x24": true
+    }
+  },
+  {
+    "ref": "v0.1.1",
+    "path": "src/core/hle/kernel/svc/svc_info.cpp",
+    "sha": "9e651e11711ad0190cbfab62c45fc3b3d2c9e3d5",
+    "checks": {
+      "MesosphereCurrentProcess": true
+    }
+  },
+  {
+    "ref": "v0.1.1",
+    "path": "src/core/hle/kernel/svc/svc_process_memory.cpp",
+    "sha": "3313118dfa89b62765be0b35561caa2110bb0dd9",
+    "checks": {
+      "Result MapProcessMemory(": true,
+      "Result UnmapProcessMemory(": true
+    }
+  },
+  {
+    "ref": "v0.1.1",
+    "path": "src/core/file_sys/patch_manager.cpp",
+    "sha": "657172fb4d476d69ad86569621f5b3c9570e8f55",
+    "checks": {
+      "exefs": true,
+      "subsdk9": true
+    }
+  },
+  {
+    "ref": "v0.1.1",
+    "path": "src/core/loader/nso.cpp",
+    "sha": "e3e3f83ca231823220a62414f74815235cd6d5cb",
+    "checks": {
+      "AppLoader_NSO::LoadModule": true,
+      "MakeMagic('N', 'S', 'O', '0')": true
+    }
+  },
+  {
+    "ref": "v0.1.1",
+    "path": "src/core/arm/nce/patcher.cpp",
+    "sha": "28862c80b93e449f89446280f73f91a6d6090394",
+    "checks": {
+      "0x24": true
+    }
+  },
+  {
+    "ref": "v0.1.0",
+    "path": "src/core/hle/kernel/svc/svc_info.cpp",
+    "sha": "9e651e11711ad0190cbfab62c45fc3b3d2c9e3d5",
+    "checks": {
+      "MesosphereCurrentProcess": true
+    }
+  },
+  {
+    "ref": "v0.1.0",
+    "path": "src/core/hle/kernel/svc/svc_process_memory.cpp",
+    "sha": "3313118dfa89b62765be0b35561caa2110bb0dd9",
+    "checks": {
+      "Result MapProcessMemory(": true,
+      "Result UnmapProcessMemory(": true
+    }
+  },
+  {
+    "ref": "v0.1.0",
+    "path": "src/core/file_sys/patch_manager.cpp",
+    "sha": "657172fb4d476d69ad86569621f5b3c9570e8f55",
+    "checks": {
+      "exefs": true,
+      "subsdk9": true
+    }
+  },
+  {
+    "ref": "v0.1.0",
+    "path": "src/core/loader/nso.cpp",
+    "sha": "e3e3f83ca231823220a62414f74815235cd6d5cb",
+    "checks": {
+      "AppLoader_NSO::LoadModule": true,
+      "MakeMagic('N', 'S', 'O', '0')": true
+    }
+  },
+  {
+    "ref": "v0.1.0",
+    "path": "src/core/arm/nce/patcher.cpp",
+    "sha": "28862c80b93e449f89446280f73f91a6d6090394",
+    "checks": {
+      "0x24": true
+    }
+  },
+  {
+    "ref": "v0.1.0-rc1",
+    "path": "src/core/hle/kernel/svc/svc_info.cpp",
+    "sha": "9e651e11711ad0190cbfab62c45fc3b3d2c9e3d5",
+    "checks": {
+      "MesosphereCurrentProcess": true
+    }
+  },
+  {
+    "ref": "v0.1.0-rc1",
+    "path": "src/core/hle/kernel/svc/svc_process_memory.cpp",
+    "sha": "3313118dfa89b62765be0b35561caa2110bb0dd9",
+    "checks": {
+      "Result MapProcessMemory(": true,
+      "Result UnmapProcessMemory(": true
+    }
+  },
+  {
+    "ref": "v0.1.0-rc1",
+    "path": "src/core/file_sys/patch_manager.cpp",
+    "sha": "657172fb4d476d69ad86569621f5b3c9570e8f55",
+    "checks": {
+      "exefs": true,
+      "subsdk9": true
+    }
+  },
+  {
+    "ref": "v0.1.0-rc1",
+    "path": "src/core/loader/nso.cpp",
+    "sha": "e3e3f83ca231823220a62414f74815235cd6d5cb",
+    "checks": {
+      "AppLoader_NSO::LoadModule": true,
+      "MakeMagic('N', 'S', 'O', '0')": true
+    }
+  },
+  {
+    "ref": "v0.1.0-rc1",
+    "path": "src/core/arm/nce/patcher.cpp",
+    "sha": "28862c80b93e449f89446280f73f91a6d6090394",
+    "checks": {
+      "0x24": true
+    }
+  },
+  {
+    "ref": "v0.0.4",
+    "path": "src/core/hle/kernel/svc/svc_info.cpp",
+    "sha": "16271883f2288062ab3055c7c07d73b7dc02f960",
+    "checks": {
+      "MesosphereCurrentProcess": true
+    }
+  },
+  {
+    "ref": "v0.0.4",
+    "path": "src/core/hle/kernel/svc/svc_process_memory.cpp",
+    "sha": "3313118dfa89b62765be0b35561caa2110bb0dd9",
+    "checks": {
+      "Result MapProcessMemory(": true,
+      "Result UnmapProcessMemory(": true
+    }
+  },
+  {
+    "ref": "v0.0.4",
+    "path": "src/core/file_sys/patch_manager.cpp",
+    "sha": "a28fdf90565f245cedcb8eb85f1ad67891136267",
+    "checks": {
+      "exefs": true,
+      "subsdk9": true
+    }
+  },
+  {
+    "ref": "v0.0.4",
+    "path": "src/core/loader/nso.cpp",
+    "sha": "e3e3f83ca231823220a62414f74815235cd6d5cb",
+    "checks": {
+      "AppLoader_NSO::LoadModule": true,
+      "MakeMagic('N', 'S', 'O', '0')": true
+    }
+  },
+  {
+    "ref": "v0.0.4",
+    "path": "src/core/arm/nce/patcher.cpp",
+    "sha": "28862c80b93e449f89446280f73f91a6d6090394",
+    "checks": {
+      "0x24": true
+    }
+  },
+  {
+    "ref": "v0.0.4.test",
+    "path": "src/core/hle/kernel/svc/svc_info.cpp",
+    "sha": "16271883f2288062ab3055c7c07d73b7dc02f960",
+    "checks": {
+      "MesosphereCurrentProcess": true
+    }
+  },
+  {
+    "ref": "v0.0.4.test",
+    "path": "src/core/hle/kernel/svc/svc_process_memory.cpp",
+    "sha": "3313118dfa89b62765be0b35561caa2110bb0dd9",
+    "checks": {
+      "Result MapProcessMemory(": true,
+      "Result UnmapProcessMemory(": true
+    }
+  },
+  {
+    "ref": "v0.0.4.test",
+    "path": "src/core/file_sys/patch_manager.cpp",
+    "sha": "a28fdf90565f245cedcb8eb85f1ad67891136267",
+    "checks": {
+      "exefs": true,
+      "subsdk9": true
+    }
+  },
+  {
+    "ref": "v0.0.4.test",
+    "path": "src/core/loader/nso.cpp",
+    "sha": "e3e3f83ca231823220a62414f74815235cd6d5cb",
+    "checks": {
+      "AppLoader_NSO::LoadModule": true,
+      "MakeMagic('N', 'S', 'O', '0')": true
+    }
+  },
+  {
+    "ref": "v0.0.4.test",
+    "path": "src/core/arm/nce/patcher.cpp",
+    "sha": "28862c80b93e449f89446280f73f91a6d6090394",
+    "checks": {
+      "0x24": true
+    }
+  },
+  {
+    "ref": "v0.0.4-rc3",
+    "path": "src/core/hle/kernel/svc/svc_info.cpp",
+    "sha": "16271883f2288062ab3055c7c07d73b7dc02f960",
+    "checks": {
+      "MesosphereCurrentProcess": true
+    }
+  },
+  {
+    "ref": "v0.0.4-rc3",
+    "path": "src/core/hle/kernel/svc/svc_process_memory.cpp",
+    "sha": "3313118dfa89b62765be0b35561caa2110bb0dd9",
+    "checks": {
+      "Result MapProcessMemory(": true,
+      "Result UnmapProcessMemory(": true
+    }
+  },
+  {
+    "ref": "v0.0.4-rc3",
+    "path": "src/core/file_sys/patch_manager.cpp",
+    "sha": "a28fdf90565f245cedcb8eb85f1ad67891136267",
+    "checks": {
+      "exefs": true,
+      "subsdk9": true
+    }
+  },
+  {
+    "ref": "v0.0.4-rc3",
+    "path": "src/core/loader/nso.cpp",
+    "sha": "e3e3f83ca231823220a62414f74815235cd6d5cb",
+    "checks": {
+      "AppLoader_NSO::LoadModule": true,
+      "MakeMagic('N', 'S', 'O', '0')": true
+    }
+  },
+  {
+    "ref": "v0.0.4-rc3",
+    "path": "src/core/arm/nce/patcher.cpp",
+    "sha": "28862c80b93e449f89446280f73f91a6d6090394",
+    "checks": {
+      "0x24": true
+    }
+  },
+  {
+    "ref": "v0.0.4-rc3.test2",
+    "path": "src/core/hle/kernel/svc/svc_info.cpp",
+    "sha": "16271883f2288062ab3055c7c07d73b7dc02f960",
+    "checks": {
+      "MesosphereCurrentProcess": true
+    }
+  },
+  {
+    "ref": "v0.0.4-rc3.test2",
+    "path": "src/core/hle/kernel/svc/svc_process_memory.cpp",
+    "sha": "3313118dfa89b62765be0b35561caa2110bb0dd9",
+    "checks": {
+      "Result MapProcessMemory(": true,
+      "Result UnmapProcessMemory(": true
+    }
+  },
+  {
+    "ref": "v0.0.4-rc3.test2",
+    "path": "src/core/file_sys/patch_manager.cpp",
+    "sha": "a28fdf90565f245cedcb8eb85f1ad67891136267",
+    "checks": {
+      "exefs": true,
+      "subsdk9": true
+    }
+  },
+  {
+    "ref": "v0.0.4-rc3.test2",
+    "path": "src/core/loader/nso.cpp",
+    "sha": "e3e3f83ca231823220a62414f74815235cd6d5cb",
+    "checks": {
+      "AppLoader_NSO::LoadModule": true,
+      "MakeMagic('N', 'S', 'O', '0')": true
+    }
+  },
+  {
+    "ref": "v0.0.4-rc3.test2",
+    "path": "src/core/arm/nce/patcher.cpp",
+    "sha": "28862c80b93e449f89446280f73f91a6d6090394",
+    "checks": {
+      "0x24": true
+    }
+  },
+  {
+    "ref": "v0.0.4-rc3.test1",
+    "path": "src/core/hle/kernel/svc/svc_info.cpp",
+    "sha": "16271883f2288062ab3055c7c07d73b7dc02f960",
+    "checks": {
+      "MesosphereCurrentProcess": true
+    }
+  },
+  {
+    "ref": "v0.0.4-rc3.test1",
+    "path": "src/core/hle/kernel/svc/svc_process_memory.cpp",
+    "sha": "3313118dfa89b62765be0b35561caa2110bb0dd9",
+    "checks": {
+      "Result MapProcessMemory(": true,
+      "Result UnmapProcessMemory(": true
+    }
+  },
+  {
+    "ref": "v0.0.4-rc3.test1",
+    "path": "src/core/file_sys/patch_manager.cpp",
+    "sha": "a28fdf90565f245cedcb8eb85f1ad67891136267",
+    "checks": {
+      "exefs": true,
+      "subsdk9": true
+    }
+  },
+  {
+    "ref": "v0.0.4-rc3.test1",
+    "path": "src/core/loader/nso.cpp",
+    "sha": "e3e3f83ca231823220a62414f74815235cd6d5cb",
+    "checks": {
+      "AppLoader_NSO::LoadModule": true,
+      "MakeMagic('N', 'S', 'O', '0')": true
+    }
+  },
+  {
+    "ref": "v0.0.4-rc3.test1",
+    "path": "src/core/arm/nce/patcher.cpp",
+    "sha": "28862c80b93e449f89446280f73f91a6d6090394",
+    "checks": {
+      "0x24": true
+    }
+  },
+  {
+    "ref": "v0.0.4-rc2",
+    "path": "src/core/hle/kernel/svc/svc_info.cpp",
+    "sha": "16271883f2288062ab3055c7c07d73b7dc02f960",
+    "checks": {
+      "MesosphereCurrentProcess": true
+    }
+  },
+  {
+    "ref": "v0.0.4-rc2",
+    "path": "src/core/hle/kernel/svc/svc_process_memory.cpp",
+    "sha": "3313118dfa89b62765be0b35561caa2110bb0dd9",
+    "checks": {
+      "Result MapProcessMemory(": true,
+      "Result UnmapProcessMemory(": true
+    }
+  },
+  {
+    "ref": "v0.0.4-rc2",
+    "path": "src/core/file_sys/patch_manager.cpp",
+    "sha": "a28fdf90565f245cedcb8eb85f1ad67891136267",
+    "checks": {
+      "exefs": true,
+      "subsdk9": true
+    }
+  },
+  {
+    "ref": "v0.0.4-rc2",
+    "path": "src/core/loader/nso.cpp",
+    "sha": "e3e3f83ca231823220a62414f74815235cd6d5cb",
+    "checks": {
+      "AppLoader_NSO::LoadModule": true,
+      "MakeMagic('N', 'S', 'O', '0')": true
+    }
+  },
+  {
+    "ref": "v0.0.4-rc2",
+    "path": "src/core/arm/nce/patcher.cpp",
+    "sha": "28862c80b93e449f89446280f73f91a6d6090394",
+    "checks": {
+      "0x24": true
+    }
+  },
+  {
+    "ref": "v0.0.4-rc2.test2",
+    "path": "src/core/hle/kernel/svc/svc_info.cpp",
+    "sha": "16271883f2288062ab3055c7c07d73b7dc02f960",
+    "checks": {
+      "MesosphereCurrentProcess": true
+    }
+  },
+  {
+    "ref": "v0.0.4-rc2.test2",
+    "path": "src/core/hle/kernel/svc/svc_process_memory.cpp",
+    "sha": "3313118dfa89b62765be0b35561caa2110bb0dd9",
+    "checks": {
+      "Result MapProcessMemory(": true,
+      "Result UnmapProcessMemory(": true
+    }
+  },
+  {
+    "ref": "v0.0.4-rc2.test2",
+    "path": "src/core/file_sys/patch_manager.cpp",
+    "sha": "a28fdf90565f245cedcb8eb85f1ad67891136267",
+    "checks": {
+      "exefs": true,
+      "subsdk9": true
+    }
+  },
+  {
+    "ref": "v0.0.4-rc2.test2",
+    "path": "src/core/loader/nso.cpp",
+    "sha": "e3e3f83ca231823220a62414f74815235cd6d5cb",
+    "checks": {
+      "AppLoader_NSO::LoadModule": true,
+      "MakeMagic('N', 'S', 'O', '0')": true
+    }
+  },
+  {
+    "ref": "v0.0.4-rc2.test2",
+    "path": "src/core/arm/nce/patcher.cpp",
+    "sha": "28862c80b93e449f89446280f73f91a6d6090394",
+    "checks": {
+      "0x24": true
+    }
+  },
+  {
+    "ref": "v0.0.4-rc2.test",
+    "path": "src/core/hle/kernel/svc/svc_info.cpp",
+    "sha": "16271883f2288062ab3055c7c07d73b7dc02f960",
+    "checks": {
+      "MesosphereCurrentProcess": true
+    }
+  },
+  {
+    "ref": "v0.0.4-rc2.test",
+    "path": "src/core/hle/kernel/svc/svc_process_memory.cpp",
+    "sha": "3313118dfa89b62765be0b35561caa2110bb0dd9",
+    "checks": {
+      "Result MapProcessMemory(": true,
+      "Result UnmapProcessMemory(": true
+    }
+  },
+  {
+    "ref": "v0.0.4-rc2.test",
+    "path": "src/core/file_sys/patch_manager.cpp",
+    "sha": "a28fdf90565f245cedcb8eb85f1ad67891136267",
+    "checks": {
+      "exefs": true,
+      "subsdk9": true
+    }
+  },
+  {
+    "ref": "v0.0.4-rc2.test",
+    "path": "src/core/loader/nso.cpp",
+    "sha": "e3e3f83ca231823220a62414f74815235cd6d5cb",
+    "checks": {
+      "AppLoader_NSO::LoadModule": true,
+      "MakeMagic('N', 'S', 'O', '0')": true
+    }
+  },
+  {
+    "ref": "v0.0.4-rc2.test",
+    "path": "src/core/arm/nce/patcher.cpp",
+    "sha": "28862c80b93e449f89446280f73f91a6d6090394",
+    "checks": {
+      "0x24": true
+    }
+  },
+  {
+    "ref": "v0.0.4-rc1",
+    "path": "src/core/hle/kernel/svc/svc_info.cpp",
+    "sha": "16271883f2288062ab3055c7c07d73b7dc02f960",
+    "checks": {
+      "MesosphereCurrentProcess": true
+    }
+  },
+  {
+    "ref": "v0.0.4-rc1",
+    "path": "src/core/hle/kernel/svc/svc_process_memory.cpp",
+    "sha": "3313118dfa89b62765be0b35561caa2110bb0dd9",
+    "checks": {
+      "Result MapProcessMemory(": true,
+      "Result UnmapProcessMemory(": true
+    }
+  },
+  {
+    "ref": "v0.0.4-rc1",
+    "path": "src/core/file_sys/patch_manager.cpp",
+    "sha": "a28fdf90565f245cedcb8eb85f1ad67891136267",
+    "checks": {
+      "exefs": true,
+      "subsdk9": true
+    }
+  },
+  {
+    "ref": "v0.0.4-rc1",
+    "path": "src/core/loader/nso.cpp",
+    "sha": "e3e3f83ca231823220a62414f74815235cd6d5cb",
+    "checks": {
+      "AppLoader_NSO::LoadModule": true,
+      "MakeMagic('N', 'S', 'O', '0')": true
+    }
+  },
+  {
+    "ref": "v0.0.4-rc1",
+    "path": "src/core/arm/nce/patcher.cpp",
+    "sha": "28862c80b93e449f89446280f73f91a6d6090394",
+    "checks": {
+      "0x24": true
+    }
+  },
+  {
+    "ref": "v0.0.3",
+    "path": "src/core/hle/kernel/svc/svc_info.cpp",
+    "sha": "16271883f2288062ab3055c7c07d73b7dc02f960",
+    "checks": {
+      "MesosphereCurrentProcess": true
+    }
+  },
+  {
+    "ref": "v0.0.3",
+    "path": "src/core/hle/kernel/svc/svc_process_memory.cpp",
+    "sha": "3313118dfa89b62765be0b35561caa2110bb0dd9",
+    "checks": {
+      "Result MapProcessMemory(": true,
+      "Result UnmapProcessMemory(": true
+    }
+  },
+  {
+    "ref": "v0.0.3",
+    "path": "src/core/file_sys/patch_manager.cpp",
+    "sha": "21d45235e458612d754e94132f68d575510878a9",
+    "checks": {
+      "exefs": true,
+      "subsdk9": true
+    }
+  },
+  {
+    "ref": "v0.0.3",
+    "path": "src/core/loader/nso.cpp",
+    "sha": "e3e3f83ca231823220a62414f74815235cd6d5cb",
+    "checks": {
+      "AppLoader_NSO::LoadModule": true,
+      "MakeMagic('N', 'S', 'O', '0')": true
+    }
+  },
+  {
+    "ref": "v0.0.3",
+    "path": "src/core/arm/nce/patcher.cpp",
+    "sha": "b8387ce7cb0b22a64438cc3243677e21ee80a7b8",
+    "checks": {
+      "0x24": true
+    }
+  },
+  {
+    "ref": "v0.0.3.git",
+    "path": "src/core/hle/kernel/svc/svc_info.cpp",
+    "sha": "16271883f2288062ab3055c7c07d73b7dc02f960",
+    "checks": {
+      "MesosphereCurrentProcess": true
+    }
+  },
+  {
+    "ref": "v0.0.3.git",
+    "path": "src/core/hle/kernel/svc/svc_process_memory.cpp",
+    "sha": "3313118dfa89b62765be0b35561caa2110bb0dd9",
+    "checks": {
+      "Result MapProcessMemory(": true,
+      "Result UnmapProcessMemory(": true
+    }
+  },
+  {
+    "ref": "v0.0.3.git",
+    "path": "src/core/file_sys/patch_manager.cpp",
+    "sha": "21d45235e458612d754e94132f68d575510878a9",
+    "checks": {
+      "exefs": true,
+      "subsdk9": true
+    }
+  },
+  {
+    "ref": "v0.0.3.git",
+    "path": "src/core/loader/nso.cpp",
+    "sha": "e3e3f83ca231823220a62414f74815235cd6d5cb",
+    "checks": {
+      "AppLoader_NSO::LoadModule": true,
+      "MakeMagic('N', 'S', 'O', '0')": true
+    }
+  },
+  {
+    "ref": "v0.0.3.git",
+    "path": "src/core/arm/nce/patcher.cpp",
+    "sha": "b8387ce7cb0b22a64438cc3243677e21ee80a7b8",
+    "checks": {
+      "0x24": true
+    }
+  },
+  {
+    "ref": "v0.0.3-rc3",
+    "path": "src/core/hle/kernel/svc/svc_info.cpp",
+    "sha": "1814f5e90e8c530ac551b369f691c4b0aeff7715",
+    "checks": {
+      "MesosphereCurrentProcess": true
+    }
+  },
+  {
+    "ref": "v0.0.3-rc3",
+    "path": "src/core/hle/kernel/svc/svc_process_memory.cpp",
+    "sha": "e1427947b075c84acd00cf92d43c53dcdcb31a6b",
+    "checks": {
+      "Result MapProcessMemory(": true,
+      "Result UnmapProcessMemory(": true
+    }
+  },
+  {
+    "ref": "v0.0.3-rc3",
+    "path": "src/core/file_sys/patch_manager.cpp",
+    "sha": "21d45235e458612d754e94132f68d575510878a9",
+    "checks": {
+      "exefs": true,
+      "subsdk9": true
+    }
+  },
+  {
+    "ref": "v0.0.3-rc3",
+    "path": "src/core/loader/nso.cpp",
+    "sha": "2cd62df07206cb0a2326fd4b33ce5ff47ef1e3e1",
+    "checks": {
+      "AppLoader_NSO::LoadModule": true,
+      "MakeMagic('N', 'S', 'O', '0')": true
+    }
+  },
+  {
+    "ref": "v0.0.3-rc3",
+    "path": "src/core/arm/nce/patcher.cpp",
+    "sha": "b8387ce7cb0b22a64438cc3243677e21ee80a7b8",
+    "checks": {
+      "0x24": true
+    }
+  },
+  {
+    "ref": "v0.0.3-rc2",
+    "path": "src/core/hle/kernel/svc/svc_info.cpp",
+    "sha": "1814f5e90e8c530ac551b369f691c4b0aeff7715",
+    "checks": {
+      "MesosphereCurrentProcess": true
+    }
+  },
+  {
+    "ref": "v0.0.3-rc2",
+    "path": "src/core/hle/kernel/svc/svc_process_memory.cpp",
+    "sha": "e1427947b075c84acd00cf92d43c53dcdcb31a6b",
+    "checks": {
+      "Result MapProcessMemory(": true,
+      "Result UnmapProcessMemory(": true
+    }
+  },
+  {
+    "ref": "v0.0.3-rc2",
+    "path": "src/core/file_sys/patch_manager.cpp",
+    "sha": "21d45235e458612d754e94132f68d575510878a9",
+    "checks": {
+      "exefs": true,
+      "subsdk9": true
+    }
+  },
+  {
+    "ref": "v0.0.3-rc2",
+    "path": "src/core/loader/nso.cpp",
+    "sha": "583b7e9270ed739b4a6e19588a39e79864b01a24",
+    "checks": {
+      "AppLoader_NSO::LoadModule": true,
+      "MakeMagic('N', 'S', 'O', '0')": true
+    }
+  },
+  {
+    "ref": "v0.0.3-rc2",
+    "path": "src/core/arm/nce/patcher.cpp",
+    "sha": "b8387ce7cb0b22a64438cc3243677e21ee80a7b8",
+    "checks": {
+      "0x24": true
+    }
+  },
+  {
+    "ref": "v0.0.3-rc1",
+    "path": "src/core/hle/kernel/svc/svc_info.cpp",
+    "sha": "1814f5e90e8c530ac551b369f691c4b0aeff7715",
+    "checks": {
+      "MesosphereCurrentProcess": true
+    }
+  },
+  {
+    "ref": "v0.0.3-rc1",
+    "path": "src/core/hle/kernel/svc/svc_process_memory.cpp",
+    "sha": "e1427947b075c84acd00cf92d43c53dcdcb31a6b",
+    "checks": {
+      "Result MapProcessMemory(": true,
+      "Result UnmapProcessMemory(": true
+    }
+  },
+  {
+    "ref": "v0.0.3-rc1",
+    "path": "src/core/file_sys/patch_manager.cpp",
+    "sha": "21d45235e458612d754e94132f68d575510878a9",
+    "checks": {
+      "exefs": true,
+      "subsdk9": true
+    }
+  },
+  {
+    "ref": "v0.0.3-rc1",
+    "path": "src/core/loader/nso.cpp",
+    "sha": "583b7e9270ed739b4a6e19588a39e79864b01a24",
+    "checks": {
+      "AppLoader_NSO::LoadModule": true,
+      "MakeMagic('N', 'S', 'O', '0')": true
+    }
+  },
+  {
+    "ref": "v0.0.3-rc1",
+    "path": "src/core/arm/nce/patcher.cpp",
+    "sha": "b8387ce7cb0b22a64438cc3243677e21ee80a7b8",
+    "checks": {
+      "0x24": true
+    }
+  },
+  {
+    "ref": "test-tag2",
+    "path": "src/core/hle/kernel/svc/svc_info.cpp",
+    "sha": "1814f5e90e8c530ac551b369f691c4b0aeff7715",
+    "checks": {
+      "MesosphereCurrentProcess": true
+    }
+  },
+  {
+    "ref": "test-tag2",
+    "path": "src/core/hle/kernel/svc/svc_process_memory.cpp",
+    "sha": "e1427947b075c84acd00cf92d43c53dcdcb31a6b",
+    "checks": {
+      "Result MapProcessMemory(": true,
+      "Result UnmapProcessMemory(": true
+    }
+  },
+  {
+    "ref": "test-tag2",
+    "path": "src/core/file_sys/patch_manager.cpp",
+    "sha": "21d45235e458612d754e94132f68d575510878a9",
+    "checks": {
+      "exefs": true,
+      "subsdk9": true
+    }
+  },
+  {
+    "ref": "test-tag2",
+    "path": "src/core/loader/nso.cpp",
+    "sha": "583b7e9270ed739b4a6e19588a39e79864b01a24",
+    "checks": {
+      "AppLoader_NSO::LoadModule": true,
+      "MakeMagic('N', 'S', 'O', '0')": true
+    }
+  },
+  {
+    "ref": "test-tag2",
+    "path": "src/core/arm/nce/patcher.cpp",
+    "sha": "b8387ce7cb0b22a64438cc3243677e21ee80a7b8",
+    "checks": {
+      "0x24": true
+    }
+  },
+  {
+    "ref": "test-tag1",
+    "path": "src/core/hle/kernel/svc/svc_info.cpp",
+    "sha": "1814f5e90e8c530ac551b369f691c4b0aeff7715",
+    "checks": {
+      "MesosphereCurrentProcess": true
+    }
+  },
+  {
+    "ref": "test-tag1",
+    "path": "src/core/hle/kernel/svc/svc_process_memory.cpp",
+    "sha": "e1427947b075c84acd00cf92d43c53dcdcb31a6b",
+    "checks": {
+      "Result MapProcessMemory(": true,
+      "Result UnmapProcessMemory(": true
+    }
+  },
+  {
+    "ref": "test-tag1",
+    "path": "src/core/file_sys/patch_manager.cpp",
+    "sha": "21d45235e458612d754e94132f68d575510878a9",
+    "checks": {
+      "exefs": true,
+      "subsdk9": true
+    }
+  },
+  {
+    "ref": "test-tag1",
+    "path": "src/core/loader/nso.cpp",
+    "sha": "583b7e9270ed739b4a6e19588a39e79864b01a24",
+    "checks": {
+      "AppLoader_NSO::LoadModule": true,
+      "MakeMagic('N', 'S', 'O', '0')": true
+    }
+  },
+  {
+    "ref": "test-tag1",
+    "path": "src/core/arm/nce/patcher.cpp",
+    "sha": "b8387ce7cb0b22a64438cc3243677e21ee80a7b8",
+    "checks": {
+      "0x24": true
+    }
+  },
+  {
+    "ref": "0.0.2-pre-alpha",
+    "path": "src/core/hle/kernel/svc/svc_info.cpp",
+    "sha": "1814f5e90e8c530ac551b369f691c4b0aeff7715",
+    "checks": {
+      "MesosphereCurrentProcess": true
+    }
+  },
+  {
+    "ref": "0.0.2-pre-alpha",
+    "path": "src/core/hle/kernel/svc/svc_process_memory.cpp",
+    "sha": "e1427947b075c84acd00cf92d43c53dcdcb31a6b",
+    "checks": {
+      "Result MapProcessMemory(": true,
+      "Result UnmapProcessMemory(": true
+    }
+  },
+  {
+    "ref": "0.0.2-pre-alpha",
+    "path": "src/core/file_sys/patch_manager.cpp",
+    "sha": "21d45235e458612d754e94132f68d575510878a9",
+    "checks": {
+      "exefs": true,
+      "subsdk9": true
+    }
+  },
+  {
+    "ref": "0.0.2-pre-alpha",
+    "path": "src/core/loader/nso.cpp",
+    "sha": "583b7e9270ed739b4a6e19588a39e79864b01a24",
+    "checks": {
+      "AppLoader_NSO::LoadModule": true,
+      "MakeMagic('N', 'S', 'O', '0')": true
+    }
+  },
+  {
+    "ref": "0.0.2-pre-alpha",
+    "path": "src/core/arm/nce/patcher.cpp",
+    "sha": "f6563bb20f58403de8465fa6d980b879da860f29",
+    "checks": {
+      "0x24": true
+    }
+  },
+  {
+    "ref": "0.0.1-pre-alpha",
+    "path": "src/core/hle/kernel/svc/svc_info.cpp",
+    "sha": "1814f5e90e8c530ac551b369f691c4b0aeff7715",
+    "checks": {
+      "MesosphereCurrentProcess": true
+    }
+  },
+  {
+    "ref": "0.0.1-pre-alpha",
+    "path": "src/core/hle/kernel/svc/svc_process_memory.cpp",
+    "sha": "e1427947b075c84acd00cf92d43c53dcdcb31a6b",
+    "checks": {
+      "Result MapProcessMemory(": true,
+      "Result UnmapProcessMemory(": true
+    }
+  },
+  {
+    "ref": "0.0.1-pre-alpha",
+    "path": "src/core/file_sys/patch_manager.cpp",
+    "sha": "21d45235e458612d754e94132f68d575510878a9",
+    "checks": {
+      "exefs": true,
+      "subsdk9": true
+    }
+  },
+  {
+    "ref": "0.0.1-pre-alpha",
+    "path": "src/core/loader/nso.cpp",
+    "sha": "583b7e9270ed739b4a6e19588a39e79864b01a24",
+    "checks": {
+      "AppLoader_NSO::LoadModule": true,
+      "MakeMagic('N', 'S', 'O', '0')": true
+    }
+  },
+  {
+    "ref": "0.0.1-pre-alpha",
+    "path": "src/core/arm/nce/patcher.cpp",
+    "sha": "f6563bb20f58403de8465fa6d980b879da860f29",
+    "checks": {
+      "0x24": true
+    }
+  },
+  {
+    "ref": "0.0.0",
+    "path": "src/core/hle/kernel/svc/svc_info.cpp",
+    "sha": "1814f5e90e8c530ac551b369f691c4b0aeff7715",
+    "checks": {
+      "MesosphereCurrentProcess": true
+    }
+  },
+  {
+    "ref": "0.0.0",
+    "path": "src/core/hle/kernel/svc/svc_process_memory.cpp",
+    "sha": "e1427947b075c84acd00cf92d43c53dcdcb31a6b",
+    "checks": {
+      "Result MapProcessMemory(": true,
+      "Result UnmapProcessMemory(": true
+    }
+  },
+  {
+    "ref": "0.0.0",
+    "path": "src/core/file_sys/patch_manager.cpp",
+    "sha": "21d45235e458612d754e94132f68d575510878a9",
+    "checks": {
+      "exefs": true,
+      "subsdk9": true
+    }
+  },
+  {
+    "ref": "0.0.0",
+    "path": "src/core/loader/nso.cpp",
+    "sha": "583b7e9270ed739b4a6e19588a39e79864b01a24",
+    "checks": {
+      "AppLoader_NSO::LoadModule": true,
+      "MakeMagic('N', 'S', 'O', '0')": true
+    }
+  },
+  {
+    "ref": "0.0.0",
+    "path": "src/core/arm/nce/patcher.cpp",
+    "sha": "c7285e3a08a5f22e1c3ce98f5c25aa132fbe7a01",
+    "checks": {
+      "0x24": true
+    }
+  },
+  {
+    "ref": "master",
+    "path": "src/core/hle/kernel/svc/svc_info.cpp",
+    "sha": "863bb58fa8825c545688c8071fade64e82f46488",
+    "checks": {
+      "MesosphereCurrentProcess": true
+    }
+  },
+  {
+    "ref": "master",
+    "path": "src/core/hle/kernel/svc/svc_process_memory.cpp",
+    "sha": "4490ba8d051e368597a02d5bf981e7a11e93ce24",
+    "checks": {
+      "Result MapProcessMemory(": true,
+      "Result UnmapProcessMemory(": true
+    }
+  },
+  {
+    "ref": "master",
+    "path": "src/core/file_sys/patch_manager.cpp",
+    "sha": "4fd7dc6c719425ef0235ba3370f1b0d3404fa427",
+    "checks": {
+      "exefs": true,
+      "subsdk9": true
+    }
+  },
+  {
+    "ref": "master",
+    "path": "src/core/loader/nso.cpp",
+    "sha": "ea1d1c9ecd75c337f10850449f732525d18fa2c3",
+    "checks": {
+      "AppLoader_NSO::LoadModule": true,
+      "MakeMagic('N', 'S', 'O', '0')": true
+    }
+  },
+  {
+    "ref": "master",
+    "path": "src/core/arm/nce/patcher.cpp",
+    "sha": "f21d7cacdce8a766e0149fb803ae71eb768a36c8",
+    "checks": {
+      "0x24": true
+    }
+  }
+]
