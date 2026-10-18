@@ -28,9 +28,8 @@ O requisito de versão é do **jogo**: Monster Hunter Rise / Sunbreak de Switch 
 ## Instalar
 
 1. Feche o jogo e extraia o ZIP da release.
-2. No Eden, abra **Complementos** do Monster Hunter Rise e escolha instalar.
-3. Selecione a pasta **MH Rise MHB**, que contém a pasta `exefs`.
-4. Ative **MH Rise MHB** e abra o jogo.
+2. No Eden, clique e segure no Monster Hunter Rise, vá em Add-ons e clique em Instalar. Escolha Mods e cheats e selecione a pasta **MH Rise MHB**
+3. Ative **MH Rise MHB** e abra o jogo.
 
 Se a sua versão usa instalação manual, coloque a pasta nesta estrutura, dentro da pasta de mods/load do Eden:
 
