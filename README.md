@@ -37,7 +37,7 @@ Se a sua versão usa instalação manual, coloque a pasta nesta estrutura, dentr
 load/0100B04011742000/MH Rise MHB/exefs/subsdk9
 ```
 
-Para desativar, desmarque o complemento e reinicie o jogo. Não mantenha duas cópias do mod ativas. Quem usava o addon de teste `MH-Rise-HUD-Experimental` deve desativá-lo antes de ativar este. Na build com HUD integrado, desative o HUD integrado também.
+Para desativar, desmarque o complemento e reinicie o jogo. Não mantenha duas cópias do mod ativas.
 
 O mod não substitui saves, shaders, configurações gráficas ou o emulador.
 
